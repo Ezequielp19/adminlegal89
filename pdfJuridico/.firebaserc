@@ -1,0 +1,21 @@
+{
+  "targets": {
+    "otra-app-645d0": {
+      "hosting": {
+        "app": [
+          "clases-develop"
+        ]
+      }
+    },
+    "pdf-manager-7fbf8": {
+      "hosting": {
+        "app": [
+          "pdf-manager-7fbf8"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "pdf-manager-7fbf8"
+  }
+}
